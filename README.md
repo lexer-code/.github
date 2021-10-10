@@ -9,7 +9,7 @@
 
 -----
 
-[Lexer Codes](https://lexercodes.com) is a business and educational platform purposed for web/software development training, building friendly products, services and provide a platform that grows your business.
+[Lexer Codes](https://lexercodes.com) is a business and educational platform purposed for skills training, building products, services and providing a platform that grows your business.
 
 ## Repositories
 
