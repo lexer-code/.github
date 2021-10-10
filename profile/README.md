@@ -9,4 +9,4 @@
 
 -----
 
-[Lexer Codes](https://lexercodes.com) is a business and educational platform purposed for web/software development training, building friendly products, services and provide a platform that grows your business.
+[Lexer Codes](https://lexercodes.com) is a business and educational platform purposed for skills training, building products, services and providing a platform that grows your business. Contributions are welcomed in all of our open-source projects. If you find any of our open-source project useful, please do not hesitate to star it.
