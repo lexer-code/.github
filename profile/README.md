@@ -1,4 +1,4 @@
-<img align=right width="168" src="https://github.com/lexercode/.github/blob/main/lexer-code.png">
+<img align=right width="168" src="https://github.com/lexer-code/.github/blob/main/lexer-code.png">
 
 
 <h1>Lexer Codes</h1>
